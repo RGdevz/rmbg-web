@@ -1,1 +1,0 @@
-import{_ as o,o as s,c,a as n}from"./index-DWmj5Egg.js";const e={},t={},a=n("h4",null,"tests",-1),r=[a];function _(f,i,l,p,d,u){return s(),c("div",null,r)}typeof t=="function"&&t(e);const m=o(e,[["render",_]]);export{m as default};
