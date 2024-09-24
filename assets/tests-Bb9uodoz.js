@@ -1,0 +1,1 @@
+import{_ as s,o as n,c,a as r}from"./index--DaxTuv_.js";const o={},e={};function a(f,t,l,p,i,u){return n(),c("div",null,t[0]||(t[0]=[r("h4",null,"tests",-1)]))}typeof e=="function"&&e(o);const d=s(o,[["render",a]]);export{d as default};
